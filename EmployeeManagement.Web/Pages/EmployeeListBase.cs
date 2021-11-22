@@ -20,45 +20,6 @@ namespace EmployeeManagement.Web.Pages
         {
             System.Threading.Thread.Sleep(3000);
 
-            Employee e1 = new Employee
-            {
-                EmployeeId = 1,
-                FirstName = "Haywood",
-                LastName = "Jablowme",
-                Email = "dicknobber@poop.com",
-                DateOfBirth = new DateTime(1969, 04, 20),
-                Gender = Gender.Male,
-                Department = new Department
-                {
-                    DepartmentId = 1,
-                    DepartmentName = "Green Room"
-                }
-                ,
-                PhotoPath = "images/john.jpg"
-
-            };
-
-
-            Employee e2 = new Employee
-            {
-                EmployeeId = 1,
-                FirstName = "Linda",
-                LastName = "Asshat",
-                Email = "allupinthatass@poop.com",
-                DateOfBirth = new DateTime(1969, 04, 20),
-                Gender = Gender.Female,
-                Department = new Department
-                {
-                    DepartmentId = 2,
-                    DepartmentName = "Glory Hole"
-                }
-               ,
-                PhotoPath = "images/linda.jpg"
-
-            };
-
-            Employees = new List<Employee> {e1, e2 };
-
         }
 
 
