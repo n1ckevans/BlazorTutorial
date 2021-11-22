@@ -1,3 +1,4 @@
+using EmployeeManagement.Api.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,12 +30,14 @@ namespace EmployeeManagement.Api
         {
             services.AddDbContext<AppDbContext>(options =>
                 options.UseMySQL(Configuration["DBInfo:ConnectionString"]));
+            services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+            services.AddScoped<IEmployeeRepository, EmployeeRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "EmployeeManagement.Api", Version = "v1" });
             });
-            
+
         }
 
        

@@ -1889,7 +1889,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.12",
       "Microsoft.Extensions.Configuration.Json >= 5.0.0",
       "MySql.EntityFrameworkCore >= 5.0.8",
-      "Pomelo.EntityFrameworkCore.MySql >= 5.0.3"
+      "Pomelo.EntityFrameworkCore.MySql >= 5.0.3",
+      "System.ComponentModel.Annotations >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -1964,6 +1965,10 @@
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
             "version": "[5.0.3, )"
+          },
+          "System.ComponentModel.Annotations": {
+            "target": "Package",
+            "version": "[5.0.0, )"
           }
         },
         "imports": [
