@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5laWQsgia2E2x1Qk0Kvnk1C87hb3BtmCk6+JX6XjcHeBK7zCrSM9956AjDedchxyVXTM5W+130y5NSGY+TVLDA==",
+  "dgSpecHash": "9r1/Qw+9tV53ulf8xc4cFSA2wbVYJGNKRPYrvWLXXuc+9loVtNgnrkAEbOipVSneaso4GP27pNxP6b9rEFV3OA==",
   "success": true,
   "projectFilePath": "D:\\Coding\\Blazor\\BlazorTutorial\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,10 @@
     "C:\\Users\\nicho\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.12\\microsoft.aspnetcore.authorization.5.0.12.nupkg.sha512",
+    "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.12\\microsoft.aspnetcore.components.5.0.12.nupkg.sha512",
+    "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.12\\microsoft.aspnetcore.components.analyzers.5.0.12.nupkg.sha512",
+    "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.12\\microsoft.aspnetcore.metadata.5.0.12.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.12\\microsoft.entityframeworkcore.5.0.12.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.12\\microsoft.entityframeworkcore.abstractions.5.0.12.nupkg.sha512",

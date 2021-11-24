@@ -1,4 +1,6 @@
 D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.deps.json
+D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.runtimeconfig.json
+D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.runtimeconfig.dev.json
 D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.dll
 D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\ref\EmployeeManagement.Models.dll
 D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.pdb
@@ -10,6 +12,4 @@ D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\obj\Deb
 D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.dll
 D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\ref\EmployeeManagement.Models.dll
 D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.pdb
-D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.runtimeconfig.json
-D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\bin\Debug\net5.0\EmployeeManagement.Models.runtimeconfig.dev.json
 D:\Coding\Blazor\BlazorTutorial\BlazorTutorial\EmployeeManagement.Models\obj\Debug\net5.0\EmployeeManagement.Models.genruntimeconfig.cache

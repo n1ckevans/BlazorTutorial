@@ -22,7 +22,7 @@ namespace EmployeeManagement.Api.Controllers
         }
 
 
-        [HttpGet("{search}")]
+        [HttpGet("{search}/{name}/{gender?}")]
         public async Task<ActionResult<IEnumerable<Employee>>> Search(string name, Gender? gender)
         {
             try
